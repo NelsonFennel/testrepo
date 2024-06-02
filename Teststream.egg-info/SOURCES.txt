@@ -7,3 +7,4 @@ Teststream.egg-info/dependency_links.txt
 Teststream.egg-info/top_level.txt
 teststream/__init__.py
 teststream/core.py
+teststream/data/namedefi.json
